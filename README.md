@@ -1,6 +1,6 @@
 # 🚀Challenge 02 - GoStack!
 
-## 'Back-end challenge about repositories in the portfolio!
+## Back-end challenge about repositories in the portfolio!
 The goal was to develop a back-end and api rest, to create repositories for the portfolio.
 - [X] Develop routes
 - [X] Pass route test
