@@ -2,8 +2,8 @@
 
 ## 'Back-end challenge about repositories in the portfolio!
 The goal was to develop a back-end and api rest, to create repositories for the portfolio.
--[X] Develop routes
--[X] Pass route test
+- [X] Develop routes
+- [X] Pass route test
 
 ### Methods:
 - POST: To create repositories with: UUID, title, url (URL of the repository on GitHub), technicians (technologies used), "likes". Where the UUID is created with the "uuidv4" library and the "likes" starting with 0.
